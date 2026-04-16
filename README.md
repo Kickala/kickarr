@@ -12,7 +12,7 @@ Make sure you mount two separate folders (do **NOT** use the same folder for bot
 Download the setup script into your custom-cont-init.d folder:
 
 curl -o /path/to/local/folder-02/scripts_init.bash \
-https://raw.githubusercontent.com/Kickala/kickarr/main/Lidarr/setup.bash
+https://raw.githubusercontent.com/Kickala/kickarr/main/Lidarr/scripts_init.bash
 
 ### 3. Make the script executable
 chmod +x /path/to/local/folder-02/scripts_init.bash
