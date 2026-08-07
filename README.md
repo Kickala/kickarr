@@ -1,4 +1,4 @@
-## Installation / Setup (Lidarr)
+## Setup Custom Scripts For Lidarr 
 
 ### 1. Add required volumes
 
